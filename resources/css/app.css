@@ -1,0 +1,21 @@
+tbody,th{
+    font-weight: normal;
+}
+.id{
+    width: 5%;
+}
+svg{
+  
+    font-size: 20px;
+    width: 40px;
+}
+tbody tr:hover{
+    background-color: bisque;
+}
+[data-href] { cursor: pointer; }
+.btn {
+    font-size: smaller;
+}
+.btn-primary{
+    margin-bottom: 5px;
+}
